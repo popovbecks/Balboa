@@ -1,0 +1,161 @@
+@font-face {
+  font-family: 'balboa-icons';
+  src: url('../fonts/balboa-icons/balboa-icons.eot?tdedyi');
+  src: url('../fonts/balboa-icons/balboa-icons.eot?tdedyi#iefix') format('embedded-opentype'), url('../fonts/balboa-icons/balboa-icons.ttf?tdedyi') format('truetype'), url('../fonts/balboa-icons/balboa-icons.woff?tdedyi') format('woff'), url('../fonts/balboa-icons/balboa-icons.svg?tdedyi#balboa-icons') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"],
+[class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'balboa-icons' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-earth-globe:before {
+  content: "\e900";
+  color: #006df0;
+}
+
+.icon-team:before {
+  content: "\e901";
+  color: #006df0;
+}
+
+.icon-vip:before {
+  content: "\e902";
+  color: #006df0;
+}
+
+.icon-chevron-down:before {
+  content: "\e903";
+  color: #2a85be;
+}
+
+.icon-search .path1:before {
+  content: "\e904";
+  color: rgb(32, 112, 180);
+}
+
+.icon-search .path2:before {
+  content: "\e905";
+  margin-left: -1em;
+  color: rgb(42, 133, 190);
+}
+
+.icon-search .path3:before {
+  content: "\e906";
+  margin-left: -1em;
+  color: rgb(42, 133, 190);
+}
+
+.icon-arrow-more:before {
+  content: "\e907";
+  color: #2a85be;
+}
+
+.icon-rating:before {
+  content: "\e908";
+  color: #006df0;
+}
+
+.icon-hours:before {
+  content: "\e909";
+  color: #006df0;
+}
+
+.icon-planning:before {
+  content: "\e90a";
+  color: #006df0;
+}
+
+.icon-worker:before {
+  content: "\e90b";
+  color: #006df0;
+}
+
+.icon-wallet:before {
+  content: "\e90c";
+  color: #006df0;
+}
+
+.icon-smartphone:before {
+  content: "\e90d";
+  color: #006df0;
+}
+
+.icon-briefcase:before {
+  content: "\e90e";
+  color: #006df0;
+}
+
+.icon-ico-06:before {
+  content: "\e90f";
+}
+
+.icon-ico-05:before {
+  content: "\e910";
+}
+
+.icon-ico-04:before {
+  content: "\e911";
+}
+
+.icon-ico-03:before {
+  content: "\e912";
+}
+
+.icon-system-ico-arrow:before {
+  content: "\e913";
+  color: #fff;
+}
+
+.icon-ico-02:before {
+  content: "\e914";
+}
+
+.icon-ico-01:before {
+  content: "\e915";
+}
+
+.icon-twitter-logo-button:before {
+  content: "\e916";
+  color: #fff;
+}
+
+.icon-facebook-logo-button:before {
+  content: "\e917";
+  color: #fff;
+}
+
+.icon-linkedin-logo-button:before {
+  content: "\e918";
+  color: #fff;
+}
+
+.icon-kav:before {
+  content: "\e919";
+  color: #9b6a6a;
+}
+
+.icon-balboa:before {
+  content: "\e91a";
+}
+
+.icon-logo:before {
+  content: "\e91b";
+}
+
+.icon-user:before {
+  content: "\e91c";
+  color: #fff;
+}

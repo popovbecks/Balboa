@@ -1,0 +1,35 @@
+@import 'colors';
+
+* {
+    text-decoration: none;
+    color: $bg-white;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul,
+li {
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+}
+
+h1,
+h2,
+h3,
+h4 {
+    font-family: 'montserratbold', Arial;
+    margin: 0;
+    padding: 0;
+}
+
+p {
+    font-size: 16px;
+}
+
+body {
+    margin: 0;
+    font-family: 'open_sansregular', Arial;
+}

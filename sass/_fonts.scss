@@ -1,0 +1,32 @@
+/*Monsterrat Bold*/
+
+@font-face {
+    font-family: 'montserratbold';
+    font-weight: normal;
+    font-style: normal;
+    src: url('../fonts/Montserrat/montserrat-bold-webfont.woff2') format('woff2'), url('../fonts/Montserrat/montserrat-bold-webfont.woff') format('woff'), url('../fonts/Montserrat/Monsterrat-Bold.ttf') format('truetype');
+}
+
+
+/*Open Sans*/
+
+@font-face {
+    font-family: 'open_sanslight';
+    font-weight: normal;
+    font-style: normal;
+    src: url('../fonts/Open_Sans/opensans-light-webfont.woff2') format('woff2'), url('../fonts/Open_Sans/opensans-light-webfont.woff') format('woff'), url('../fonts/Open_Sans/OpenSans-Light.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'open_sansbold';
+    font-weight: normal;
+    font-style: normal;
+    src: url('../fonts/Open_Sans/opensans-bold-webfont.woff2') format('woff2'), url('../fonts/Open_Sans/opensans-bold-webfont.woff') format('woff'), url('../fonts/Open_Sans/OpenSans-Bold.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'open_sansregular';
+    font-weight: normal;
+    font-style: normal;
+    src: url('../fonts/Open_Sans/opensans-regular-webfont.woff2') format('woff2'), url('../fonts/Open_Sans/opensans-regular-webfont.woff') format('woff'), url('../fonts/Open_Sans/OpenSans-Regular.ttf') format('truetype');
+}

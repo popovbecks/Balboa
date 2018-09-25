@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+  <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c138 79.159824, 2016/09/14-01:09:01        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""/>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?></metadata>
+<defs>
+    <style>
+      .cls-1 {
+        fill-rule: evenodd;
+        filter: url(#filter);
+      }
+    </style>
+    <filter id="filter" x="2" y="2" width="60" height="60" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#242626"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <path id="Forma_1" data-name="Forma 1" class="cls-1" d="M55,15V11l-1.94-.079L53,15H49A17.992,17.992,0,0,0,32.123,2,18.306,18.306,0,0,0,15,15H11l-0.06-4.078L9,11v4H2V62H62V15H55ZM32,4.671A14.261,14.261,0,0,1,46.294,18.936c0,6.875-10.856,24.326-14.294,29.8-4.85-7.512-14.294-23.566-14.294-29.8A14.261,14.261,0,0,1,32,4.671ZM4,17H9v5h2V17l4.373,0.037a17.1,17.1,0,0,0-.1,1.789c0,2.892,1.576,7.566,3.725,12.174H4V17ZM60,60H4V33H20c4.445,8.873,12,20.336,12,20.336S39.555,41.86,44,33H60V60Zm0-29H45c2.174-4.62,3.971-9.331,3.971-12.186a17.286,17.286,0,0,0-.1-1.789H53.06v0.012L53,22h2V17h5V31h0ZM42.082,19.573A10.082,10.082,0,1,0,32,29.635,10.016,10.016,0,0,0,42.082,19.573Zm-17.61.135a7.528,7.528,0,0,1,15.055,0A7.528,7.528,0,0,1,24.472,19.708ZM47,45h5v2H47V45Zm0,8h5v2H47V53ZM12,45h5v2H12V45Zm0,8h5v2H12V53Z"/>
+</svg>
